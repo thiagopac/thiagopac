@@ -64,4 +64,4 @@
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=thiagopac&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagopac&theme=dark) |
 |--|--|
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&row=1&column=6&theme=dark&margin-w=15&margin-h=15) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&row=1&column=6&margin-w=15&margin-h=15) 
