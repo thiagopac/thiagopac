@@ -1,5 +1,5 @@
 
-## Hi, there! I'm Thiago
+## Hi, there! I'm Thiago.
 <p align="left">I'm a full-stack developer from Belo Horizonte, Minas Gerais, Brazil. <img src="https://cdn-icons-png.flaticon.com/512/299/299693.png" width="13"/>
 <br/> My toolkit includes TypeScript, JavaScript, Swift, Objective-C, PHP, Java, among others, and I'm always keen to expand it. My experience spans across frameworks like Angular, Ionic, Adonis, Laravel, Spring and more, and I've ventured into the world of Blockchain Smart Contracts with Solidity. I've played significant roles in projects for big names like PEPSICO, Globo, Natura, AB-InBev, Sodexo, Tim, Kroton, R7 and more. Coding and embracing new challenges is what I do best.
 </p>
