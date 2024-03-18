@@ -55,7 +55,7 @@
 
 ## Stats
 
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=thiagopac&theme=dark&ring=ff0000&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagopac&theme=dark) |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=thiagopac&theme=dark&ring=ff1000&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagopac&theme=dark) |
 |--|--|
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&row=1&column=7&margin-w=15&margin-h=15) 
