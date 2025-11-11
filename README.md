@@ -15,7 +15,6 @@
 
 ### Stats
 
-| <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagopac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> | [![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=thiagopac&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-|--|--|
+[![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=thiagopac&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&row=1&column=7&margin-w=15&margin-h=15) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6) 
