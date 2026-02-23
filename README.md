@@ -17,4 +17,4 @@
 
 [![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=thiagopac&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thiagopac&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6) 
+![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=thiagopac&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6) 
