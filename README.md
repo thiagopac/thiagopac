@@ -20,4 +20,4 @@
 ![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=thiagopac&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6) 
 
 
-<img src="https://komarev.com/ghpvc/?username=chebupelka8">
+<img src="https://komarev.com/ghpvc/?username=thiagopac">
