@@ -4,9 +4,6 @@
 
 ### Contacts
 <p align="left">
-  <a href="mailto:thiagopac@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-ff0000.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/thiagopac">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
